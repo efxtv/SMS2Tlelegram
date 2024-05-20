@@ -1,4 +1,4 @@
-# SMS2Tekegram [Contact to purchase](t.me/efxtv)
+# SMS2Tekegram [Join for more details](https://t.me/efxtv)
 
 # Realtime SMS to Telegram Bot
 
