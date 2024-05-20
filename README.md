@@ -11,6 +11,7 @@ This project is an Android application (APK) designed to send real-time OTP or t
 - **Real-time SMS to Telegram**: Instantly forward OTPs or text messages received on your Android device to a designated Telegram bot.
 - **No Port Forwarding Required**: Simplifies the setup process by eliminating the need for port forwarding.
 - **Easy Customization**: Uses APKTOOL M to decompile and edit necessary files for customization.
+- No portforwarding
 - easy to use
 - customizable
 - social engineering
